@@ -1,0 +1,71 @@
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+img {
+    height: 580;
+    width: 1440;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pageBorder {
+    border: 30px solid darkblue;
+    padding: 15px
+}
+
+#favSong {
+    text-align: center;
+}
+
+#button1 {
+    text-align: center;
+    font-weight: bolder;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#li1 {
+    color: red;
+}
+
+#li2 {
+    color: orange;
+}
+
+#li3 {
+    color: green;
+}
+
+#li4 {
+    color: blue;
+}
+
+#li5 {
+    color: purple;
+}
+
+#joshBio {
+    border: 10px solid darkblue;
+    background: solid lightblue;
+}
+
+#joshPic {
+    border: 10px solid darkblue;
+    background: solid lightblue;
+}
+
+#left {
+    float: left;
+    width: 75%;
+    overflow: hidden;
+}
+
+#right {
+    float: left;
+    width: 25%;
+    overflow: hidden;
+}
